@@ -24,7 +24,7 @@ Adams, A. R. (Year). *Title of material* [Presentation or educational resource].
 
 ## Reuse
 
-State whether reuse, adaptation, or redistribution is permitted.
+Reuse, adaptation, and redistribution is permitted. 
 
 ## Notes
 
