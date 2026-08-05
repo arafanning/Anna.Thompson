@@ -9,9 +9,8 @@ Upload lecture slides, workshops, and educational presentations here.
 
 [Neuropsych_FAQ.pdf](https://github.com/user-attachments/files/30724044/Neuropsych_FAQ.pdf)
 
-
-
-
 [mandatedreporters.pdf](https://github.com/user-attachments/files/30724104/mandatedreporters.pdf)
 [2004 Heaton R.K  Revised Comprehensive Norms For Expanded Halstead-Reitan Battery.pdf](https://github.com/user-attachments/files/30724079/2004.Heaton.R.K.Revised.Comprehensive.Norms.For.Expanded.Halstead-Reitan.Battery.pdf)
 [580338253-What-Tests-Assess.pdf](https://github.com/user-attachments/files/30724051/580338253-What-Tests-Assess.pdf)
+
+
